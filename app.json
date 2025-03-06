@@ -29,7 +29,8 @@
       }
     },
     "android": {
-      "package": "com.atharv799.boltexponativewind"
+      "package": "com.atharv799.boltexponativewind",
+      "kotlinVersion": "1.9.25"
     },
     "owner": "hemantsry"
   }
